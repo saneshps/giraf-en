@@ -96,7 +96,7 @@
     <div class="banner-area">
       <img src="./img/portfolio/banner.jpg" alt="banner">
       <div class="head-title">
-        <h1> Works </h1>
+        <h1> WORKS </h1>
       </div>
     </div>
   </section>
