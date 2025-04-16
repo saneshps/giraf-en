@@ -18,7 +18,7 @@ $result = $conn->query($sql);
   <meta name="description" content="Giraf is a leading digital marketing company in Germany,offering branding,animation,web and app development, design,photography,and digital marketing services">
   <title> Digital Marketing,Web & App Development Company,Germany|Giraf</title>
   <!-- canonical -->
-  <link href="https://giraf.in/index.php" rel="canonical">
+  <link href="https://girafcreatives.com/de/en" rel="canonical">
   <!--// canonical -->
   <link rel="stylesheet" href="./css/main.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">

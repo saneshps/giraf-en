@@ -8,7 +8,7 @@
   <meta name="description" content="Boost your brand's performance with the best digital marketing company in Germany.We can help you improve your online presence with expert strategies.Contact us today">
   <title> Best Digital Marketing Company in Germany |Giraf </title>
   <!-- canonical -->
-  <link href="https://giraf.in/digital-marketing.php" rel="canonical">
+  <link href="https://girafcreatives.com/de/en/digital-marketing.php" rel="canonical">
   <!--// canonical -->
 
 

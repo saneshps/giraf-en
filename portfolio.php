@@ -8,7 +8,7 @@
   <meta name="description" content="Explore our portfolio of branding, animation, web & app development,design, photography, and videography,digital marketing projects.See how we can help your business">
   <title>Creative Portfolio|Digital Marketing & Development Projects|Giraf </title>
   <!-- canonical -->
-  <link href="https://giraf.in/portfolio.php" rel="canonical">
+  <link href="https://girafcreatives.com/de/en/portfolio.php" rel="canonical">
   <!--// canonical -->
   <link rel="stylesheet" href="./css/main.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
@@ -96,7 +96,7 @@
     <div class="banner-area">
       <img src="./img/portfolio/banner.jpg" alt="banner">
       <div class="head-title">
-        <h1> WORKS </h1>
+        <h1> Works </h1>
       </div>
     </div>
   </section>

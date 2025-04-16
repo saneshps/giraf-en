@@ -9,7 +9,7 @@
   <title>Digital Marketing & Web Development Company,Germany|About Us|Giraf </title>
 
   <!-- canonical -->
-  <link href="https://giraf.in/about.php" rel="canonical">
+  <link href="https://girafcreatives.com/de/en/about.php" rel="canonical">
   <!--// canonical -->
 
   <link rel="stylesheet" href="./css/main.css">

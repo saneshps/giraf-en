@@ -8,7 +8,7 @@
   <meta name="description" content="Giraf offers top-notch web and app development services in Germany, creating user friendly websites and high-performance mobile apps. Contact us today">
   <title>Leading Web & App Development Services in Germany |Giraf Creatives </title>
   <!-- canonical -->
-  <link href="https://giraf.in/web-and-app-development.php" rel="canonical">
+  <link href="https://girafcreatives.com/de/en/web-and-app-development.php" rel="canonical">
   <!--// canonical -->
   <link rel="stylesheet" href="./css/main.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">

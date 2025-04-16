@@ -9,7 +9,7 @@
   <meta name="description" content="Get in touch with the leading digital marketing company in Germany. For more details, visit girafcreatives.de or give us a call. Let's talk! +49 7581 48882-0">
 
   <!-- canonical -->
-  <link href="https://giraf.in/connect-us.php" rel="canonical">
+  <link href="https://girafcreatives.com/de/en/connect-us.php" rel="canonical">
   <!--// canonical -->
   <link rel="stylesheet" href="./css/main.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">

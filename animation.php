@@ -8,7 +8,7 @@
   <meta name="description" content="Giraf Creatives offers expert animation services in Germany, including 3D, stop-motion, hand-drawn animation, and motion graphics. Give us a call-let's talk +49 7581 488820">
   <title> Top Rated Animation Services Company in Germany | Giraf </title>
   <!-- canonical -->
-  <link href="https://giraf.in/animation.php" rel="canonical">
+  <link href="https://girafcreatives.com/de/en/animation.php" rel="canonical">
   <!--// canonical -->
   <link rel="stylesheet" href="./css/main.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">

@@ -8,7 +8,7 @@
   <meta name="description" content="Explore our expert services,including digital marketing, branding, web and app development, animation, SEO, graphic design, photography, and videography">
   <title>Digital Marketing,SEO,Branding,Web & App Development|Services|Giraf </title>
   <!-- canonical -->
-  <link href="https://giraf.in/services.php" rel="canonical">
+  <link href="https://girafcreatives.com/de/en/services.php" rel="canonical">
   <!--// canonical -->
   <link rel="stylesheet" href="./css/main.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">

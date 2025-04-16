@@ -411,7 +411,7 @@ main {
 .nav-visible .nav-wrapper {
   transform: translateX(0);
   visibility: visible;
-  z-index: 99;
+  z-index: 9999;
 }
 
 .nav {
